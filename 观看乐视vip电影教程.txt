@@ -1,0 +1,29 @@
+此教程仅限圈内使用  此教程仅仅娱乐 不可做商业用途  版权所有者:louduanxiong 
+如有疑问发送邮箱:louduanxiong@163.com  欢迎骚扰 备注:周一、周三、周五看邮箱  请耐心等待
+本人酷爱火狐浏览器 所以只写了火狐浏览器的教程  如需其他浏览器的教程 请发送邮箱 不是免费的哦
+1  下载火狐浏览器   网址: https://www.baidu.com/link?url=d7t_Q5SNIWT_QJAX2WGBUe-KCmnd0IULT0Y1d-PxwnrcBp3JvbSNPyqvWN2K7aGnpV2qkwbJFZtYi7g6NbswXnPT65W6xePxmkOHpHw3yXC&wd=&eqid=931c3f140006302c000000035868d3ba
+2  安装火狐浏览器	此处省略一万字   不会安装的自行百度
+3  打开狐火浏览器	右上角有个三个横线的 点击->附加组件->扩展->点击->搜索user Agent Switcher  安装这个组件
+					然后安装Firebug组件  安装步骤同上
+4  重启火狐浏览器
+重点来了..............看好了
+5  调试火狐浏览器   摁住Alt   Alt不用我给科普了吧  不会的自己百度
+					你会看到上方出现一行菜单栏  点击工具 Default User Agent/User Agent Switcher/Options
+					这时候会弹出一个模态框 此处省略一万字 你不需要知道模态框是什么   
+					点击New->New User Agent
+					第一行  写上你自己特别喜欢的名字 记住要是特别喜欢的啊 不是特别喜欢的名字 看不vip电影啊
+					第二行  里面的内容删除  粘贴这段内容: Mozilla/5.0 (Linux; U; Android 4.0.2; en-us; Galaxy Nexus Build/ICL53F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+					点击确定按钮
+					这时候回到刚才那个模态框里面了  单击你最喜欢的名字  不知道你自己喜欢什么名字的请从教程的最开头寻找自己最喜欢的名字
+					点击确定按钮
+上面的那几步你操作成功了 你已经离大神不远了  
+					
+6  打开另一个浏览器  百度乐视  打开乐视官网 选择自己想要看的vip电影  你会看到你不是vip只能观看6分钟  此处穷逼屌丝哭三分钟  ->复制电影的链接
+7  在狐火浏览器里面打开这个网址   能看vip视频有没有 有没有   然后并没有 哈哈  
+8  摁F12  点击HTML  这个我就不截图了 自己哦 
+9  摁住Ctrl+f  输入video 回车   在褐色(电脑配置不一样颜色不同)字母中寻找src  在src后面双击 然后ctrl+c
+10 在火狐浏览器上打开一个新的页面 ctrl+v  能看了有没有 有没有 当然也可以下载  然而我不会告诉你们的 能不花钱看了 还想下载 嘿嘿 不告诉你
+
+此教程不可作为泡妹纸神器
+
+
